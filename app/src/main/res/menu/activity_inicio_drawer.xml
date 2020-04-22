@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/medalla"
+            android:title="Planta Baja" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/medalla"
+            android:title="Planta Media y Alta" />
+    </group>
+
+    <item android:title="Creditos ">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/upc"
+                android:title="Sistemas UT " />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/martillo"
+                android:title="Mantenimiento UT" />
+        </menu>
+    </item>
+
+</menu>

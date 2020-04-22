@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "289563381511",
+    "firebase_url": "https://fir-ledcontrolesp32.firebaseio.com",
+    "project_id": "fir-ledcontrolesp32",
+    "storage_bucket": "fir-ledcontrolesp32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289563381511:android:8ca6bdddc624982329ffa2",
+        "android_client_info": {
+          "package_name": "com.example.control"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289563381511-2s2uu18seu1oe05moh1anos5lvk1rber.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.control",
+            "certificate_hash": "c6b38b9d26020f2e875c039fea565ca0983937ed"
+          }
+        },
+        {
+          "client_id": "289563381511-ci7rshgabir49ovm418vj00iehkebk0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-fGkbbXjUMh6VFWL62nzocSx6QUrsysg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289563381511-ci7rshgabir49ovm418vj00iehkebk0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289563381511:android:26691e2874e00f9229ffa2",
+        "android_client_info": {
+          "package_name": "com.example.esp8266"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289563381511-ci7rshgabir49ovm418vj00iehkebk0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-fGkbbXjUMh6VFWL62nzocSx6QUrsysg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289563381511-ci7rshgabir49ovm418vj00iehkebk0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289563381511:android:761eb55c11ff57b829ffa2",
+        "android_client_info": {
+          "package_name": "com.example.esp8266control"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289563381511-4oau7moiggcr97l7nsc2a8jjf18svoqg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.esp8266control",
+            "certificate_hash": "c6b38b9d26020f2e875c039fea565ca0983937ed"
+          }
+        },
+        {
+          "client_id": "289563381511-ci7rshgabir49ovm418vj00iehkebk0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-fGkbbXjUMh6VFWL62nzocSx6QUrsysg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289563381511-ci7rshgabir49ovm418vj00iehkebk0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
